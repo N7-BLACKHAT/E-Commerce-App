@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14 Pro",
+            "desc": "Apple iPhone 14th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image":
+                "https://m.media-amazon.com/images/I/61HHS0HrjpL._SX466_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 14",
+            "desc": "Apple iPhone 14th Generation",
+            "price": 799,
+            "color": "#00ac51",
+            "image":
+                "https://m.media-amazon.com/images/I/619f09kK7tL._SX679_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 13",
+            "desc": "Apple iPhone 14th Generation",
+            "price": 699,
+            "color": "#e0bfae",
+            "image":
+                "https://m.media-amazon.com/images/I/3150P3KQFlL._SY445_SX342_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Macbook Air",
+            "desc": "Apple Macbook Air with M2 Chip",
+            "price": 1199,
+            "color": "#544ee4",
+            "image":
+                "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=446&hei=410&fmt=jpeg&qlt=95&.v=1653084303665"
+        },
+        {
+            "id": 5,
+            "name": "Macbook Pro",
+            "desc": "Apple Macbook Pro with M2 Pro Chip",
+            "price": 1999,
+            "color": "#e3e4e9",
+            "image":
+                "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1671304673229"
+        },
+        {
+            "id": 6,
+            "name": "AirPods 3",
+            "desc": "Apple AirPods 3rd Generation",
+            "price": 169,
+            "color": "#f73984",
+            "image":
+                "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1632861342000"
+        },
+        {
+            "id": 7,
+            "name": "AirPods Pro 2",
+            "desc": "Apple AirPods Pro 2nd Generation",
+            "price": 249,
+            "color": "#1c1c1c",
+            "image":
+                "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660803972361"
+        },
+        {
+            "id": 8,
+            "name": "AirPods Max",
+            "desc": "Apple AirPods Max with ANC",
+            "price": 549,
+            "color": "#7c95eb",
+            "image":
+                "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-hero-select-202011?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604709293000"
+        }
+    ]
+}
